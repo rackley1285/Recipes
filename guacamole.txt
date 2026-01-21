@@ -4,3 +4,5 @@
 * lime
 * salt
 ## Instructions
+1. Mash it
+2. Eat it
